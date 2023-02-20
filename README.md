@@ -1,2 +1,2 @@
 # Collatz-Shared-Memory
-An implementation of the Collatz Conjecture
+A C-language implementation of the Collatz Conjecture
